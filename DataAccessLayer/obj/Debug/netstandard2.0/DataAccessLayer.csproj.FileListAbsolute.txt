@@ -1,0 +1,12 @@
+C:\Users\reema.sandhu\source\repos\FoodOrderingApp\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.deps.json
+C:\Users\reema.sandhu\source\repos\FoodOrderingApp\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\reema.sandhu\source\repos\FoodOrderingApp\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\reema.sandhu\source\repos\FoodOrderingApp\DataAccessLayer\bin\Debug\netstandard2.0\mvcEntities.dll
+C:\Users\reema.sandhu\source\repos\FoodOrderingApp\DataAccessLayer\bin\Debug\netstandard2.0\mvcEntities.pdb
+C:\Users\reema.sandhu\source\repos\FoodOrderingApp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\reema.sandhu\source\repos\FoodOrderingApp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\reema.sandhu\source\repos\FoodOrderingApp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\reema.sandhu\source\repos\FoodOrderingApp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\reema.sandhu\source\repos\FoodOrderingApp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\reema.sandhu\source\repos\FoodOrderingApp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\reema.sandhu\source\repos\FoodOrderingApp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.pdb

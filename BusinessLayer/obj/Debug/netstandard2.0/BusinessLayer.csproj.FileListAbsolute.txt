@@ -1,0 +1,14 @@
+C:\Users\reema.sandhu\source\repos\FoodOrderingApp\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.deps.json
+C:\Users\reema.sandhu\source\repos\FoodOrderingApp\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.dll
+C:\Users\reema.sandhu\source\repos\FoodOrderingApp\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.pdb
+C:\Users\reema.sandhu\source\repos\FoodOrderingApp\BusinessLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\reema.sandhu\source\repos\FoodOrderingApp\BusinessLayer\bin\Debug\netstandard2.0\mvcEntities.dll
+C:\Users\reema.sandhu\source\repos\FoodOrderingApp\BusinessLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\reema.sandhu\source\repos\FoodOrderingApp\BusinessLayer\bin\Debug\netstandard2.0\mvcEntities.pdb
+C:\Users\reema.sandhu\source\repos\FoodOrderingApp\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\reema.sandhu\source\repos\FoodOrderingApp\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\reema.sandhu\source\repos\FoodOrderingApp\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\reema.sandhu\source\repos\FoodOrderingApp\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\reema.sandhu\source\repos\FoodOrderingApp\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CopyComplete
+C:\Users\reema.sandhu\source\repos\FoodOrderingApp\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.dll
+C:\Users\reema.sandhu\source\repos\FoodOrderingApp\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.pdb
